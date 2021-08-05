@@ -5,22 +5,23 @@ import (
 )
 
 func main() {
-<<<<<<< HEAD
-<<<<<<< HEAD
+	//<<<<<<< HEAD
+	//<<<<<<< HEAD
 
-//	fmt.Println("Hello, world and world")
+	//	fmt.Println("Hello, world and world")
 	fmt.Println("Прывитанне КРАИНА")
-<<<<<<< HEAD
+	//<<<<<<< HEAD
 	fmt.Println("Привет МИР!")
-=======
+	//=======
 	fmt.Println("привет мир!")
 	fmt.Println("Merhaba, Baris!")
->>>>>>> feature
-=======
+	//>>>>>>> feature
+	//=======
 	fmt.Println("HELLO, WORLD!!!")
->>>>>>> hotfix
-=======
+	//>>>>>>> hotfix
+	//=======
 	fmt.Println("HELLO, WORLD!")
->>>>>>> hotfix2
+	//>>>>>>> hotfix2
+
+	fmt.Println("ZERO")
 }
-fmt.Println("ZERO")
