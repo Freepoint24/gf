@@ -25,3 +25,5 @@ func main() {
 
 	fmt.Println("ZERO")
 }
+
+//relase 1.0
