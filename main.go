@@ -23,3 +23,4 @@ func main() {
 	fmt.Println("HELLO, WORLD!")
 >>>>>>> hotfix2
 }
+fmt.Println("ZERO")
