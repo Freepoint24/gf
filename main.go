@@ -6,6 +6,7 @@ import (
 
 func main() {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 //	fmt.Println("Hello, world and world")
 	fmt.Println("Прывитанне КРАИНА")
@@ -18,4 +19,7 @@ func main() {
 =======
 	fmt.Println("HELLO, WORLD!!!")
 >>>>>>> hotfix
+=======
+	fmt.Println("HELLO, WORLD!")
+>>>>>>> hotfix2
 }
