@@ -5,7 +5,9 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello, world and world")
+<<<<<<< HEAD
+
+//	fmt.Println("Hello, world and world")
 	fmt.Println("Прывитанне КРАИНА")
 <<<<<<< HEAD
 	fmt.Println("Привет МИР!")
@@ -13,4 +15,7 @@ func main() {
 	fmt.Println("привет мир!")
 	fmt.Println("Merhaba, Baris!")
 >>>>>>> feature
+=======
+	fmt.Println("HELLO, WORLD!!!")
+>>>>>>> hotfix
 }
