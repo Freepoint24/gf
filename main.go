@@ -7,5 +7,5 @@ import (
 func main() {
 	fmt.Println("Hello, world and world")
 	fmt.Println("привет мир!")
-	fmt.Println("Merhaba!")
+	fmt.Println("Merhaba, Baris!")
 }
